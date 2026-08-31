@@ -8,7 +8,7 @@
 
 **Darlene Cernoch**
 
-*ITSA Student*
+
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlenecernoch) [![GITHUB](https://img.shields.io/badge/GITHUB-%40darlenecernoch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlenecernoch) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darlene.cernoch@hotmail.com)
 
