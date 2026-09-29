@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Education Executive with 20 years experience.
+I am a Higher Education Executive with 20 years experience leading and managing academic programs.
 
 ---
 
